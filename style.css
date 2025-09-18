@@ -1,6 +1,6 @@
  body {
         background: linear-gradient(to right, #6282c7, #15137d);
-        height:100%;
+        
       }
 
       .forms {
@@ -9,7 +9,7 @@
         align-items: center;
         flex-direction: column;
         width: 100vw;
-        height: 500px;
+        height: 100%;
       }
       .head h1{
         font-size:3rem;
